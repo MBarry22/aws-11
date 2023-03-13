@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\week-11-csharp.deps.json
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\week-11-csharp.runtimeconfig.json
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\week-11-csharp.pdb
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\Amazon.Lambda.Core.dll
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\User\Desktop\aws-week-10\week-11-csharp\week-11-csharp\src\week-11-csharp\bin\Release\lambda-publish\week-11-csharp.dll
